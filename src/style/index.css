@@ -11,6 +11,7 @@ body{
 .menu__nav{
     display: flex;
     align-items: center;
+    justify-content: center;
     flex-direction: column;
     height: 238px;
     width: 320px;
@@ -205,6 +206,12 @@ body{
     .menu__vagas{
         flex-wrap: nowrap;
     }
+
+    .menu__main{
+        max-width: 1200px;
+        display: flex;
+        margin: 0 auto;
+    }
     
     .menu__section1, .menu__section2{
         flex-wrap: wrap;
@@ -219,6 +226,7 @@ body{
 
     .menu__section--ul1, .menu__section--ul2{
         width: 300px;
+        margin: 0 auto;
     }
     
 }
