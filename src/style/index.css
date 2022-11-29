@@ -34,7 +34,7 @@ body{
     font-weight: 500;
     color: var(--color-grey-1);
     font-size: 14px;
-    margin: 10px 10px 0 -20px;
+    margin: 0 auto;
 }
 
 .menu__vagas{
@@ -116,6 +116,7 @@ body{
     width: 200px;
     height: 290px;
     gap: 12px;
+    margin: 10px 0 0 30px;
 }
 
 .menu__container1{
