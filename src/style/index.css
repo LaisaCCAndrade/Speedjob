@@ -15,6 +15,7 @@ body{
     flex-direction: column;
     height: 238px;
     width: 320px;
+    margin: 0 auto;
 }
 
 .menu__titulo2{
