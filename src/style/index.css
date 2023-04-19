@@ -41,7 +41,6 @@ body{
 .menu__vagas{
     display: flex;
     flex-direction: row;
-    color: var(--color-grey-1);
     gap: .5rem;
     padding: 1.4rem 1.4rem 0 0;
     font-size: .6rem;
@@ -61,6 +60,10 @@ body{
     align-items: center;
     justify-content: center;
     gap: 10px;
+}
+
+a {
+    color: var(--color-grey-1);
 }
 
 .menu__main{
